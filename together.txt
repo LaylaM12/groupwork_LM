@@ -1,3 +1,5 @@
 This will be a collaboration for a required task 23.6 in Module 23 of the Data Analytics Executive Education certificate. 
 
 My Capstone Project will be focussing on using Machine Learning prediciton algorithms such as xGradientBoosting and kNN to predict oil production in wells, as well as helping to understand where the best well spacing (location) is to drill new wells within a certain area (Layla Mahmood). 
+
+My capstone (data project) aims to use machine learning techniques to develop predictive models for identifying coronary heart disease (CHD) risk factors, focusing on age and gender, utilising a dataset sourced from multiple sources and evaluating model performance with key metrics (Bobby Rahman).
