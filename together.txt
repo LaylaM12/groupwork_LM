@@ -1,0 +1,3 @@
+This will be a collaboration for a required task 23.6 in Module 23 of the Data Analytics Executive Education certificate. 
+
+My Capstone Project will be focussing on using Machine Learning prediciton algorithms such as xGradientBoosting and kNN to predict oil production in wells, as well as helping to understand where the best well spacing (location) is to drill new wells within a certain area (Layla Mahmood). 
